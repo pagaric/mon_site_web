@@ -1,0 +1,10 @@
+# ignorer le dossier complet
+tmp/
+
+# ignorer le fichier todo.txt
+tmp/todo.txt
+
+# ignorer tous les fichiers .txt
+*.txt
+
+# ...
